@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6a4584aeca2bd38ecc7ce73a"
+  },
+  "authorID": 1,
+  "firstName": "J.K.",
+  "lastName": "Rowling"
+},
+{
+  "_id": {
+    "$oid": "6a4584bcca2bd38ecc7ce73c"
+  },
+  "authorID": 2,
+  "firstName": "George",
+  "lastName": "Orwell"
+},
+{
+  "_id": {
+    "$oid": "6a4584c9ca2bd38ecc7ce73e"
+  },
+  "authorID": 3,
+  "firstName": "Harper",
+  "lastName": "Lee"
+}]

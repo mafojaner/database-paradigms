@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6a4584f1ca2bd38ecc7ce746"
+  },
+  "memberID": 1001,
+  "firstName": "Alice",
+  "lastName": "Johnson",
+  "email": "alice.johnson@email.com",
+  "phoneNo": "0821234567"
+},
+{
+  "_id": {
+    "$oid": "6a4584faca2bd38ecc7ce748"
+  },
+  "memberID": 1002,
+  "firstName": "Bob",
+  "lastName": "Smith",
+  "email": "bob.smith@email.com",
+  "phoneNo": "0837654321"
+}]

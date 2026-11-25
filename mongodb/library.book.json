@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6a4584d8ca2bd38ecc7ce741"
+  },
+  "ISBN": "978-0-7475-3269-9",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "publicationYear": 1997,
+  "available": true,
+  "quantityInStock": 10
+},
+{
+  "_id": {
+    "$oid": "6a4584e2ca2bd38ecc7ce743"
+  },
+  "ISBN": "978-0-452-28423-4",
+  "title": "1984",
+  "publicationYear": 1949,
+  "available": true,
+  "quantityInStock": 7
+},
+{
+  "_id": {
+    "$oid": "6a458bebca2bd38ecc7ce761"
+  },
+  "ISBN": "978-0-123-45678-9",
+  "title": "Future Tech 2030",
+  "publicationYear": 2027,
+  "available": true,
+  "quantityInStock": 3
+}]

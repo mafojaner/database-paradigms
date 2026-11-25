@@ -1,0 +1,10 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Oracle SQL Developer and SQL*Plus leftovers
+*.log
+sqlnet.log

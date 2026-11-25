@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6a458513ca2bd38ecc7ce74d"
+  },
+  "memberID": 1002,
+  "ISBN": "978-0-452-28423-4",
+  "dateBorrowed": "2026-05-25",
+  "dueDate": "2026-06-08",
+  "returnDate": null,
+  "fineAmount": 0
+}]
